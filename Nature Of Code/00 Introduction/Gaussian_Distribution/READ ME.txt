@@ -1,0 +1,2 @@
+Used a gaussian distribution to place ellipses on the screen, ellipses tend towards
+the center. 

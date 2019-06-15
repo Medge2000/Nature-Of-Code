@@ -1,0 +1,1 @@
+The pixels movement in both the x and y directions are governed by Perlin Noise. 

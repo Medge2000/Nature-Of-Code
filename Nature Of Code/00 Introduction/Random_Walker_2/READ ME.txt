@@ -1,0 +1,2 @@
+Similar to 'Random_Walker_1' except the pixel now has different chances to move in
+either direction. It tends up and to the left. 

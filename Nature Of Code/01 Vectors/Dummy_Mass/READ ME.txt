@@ -1,0 +1,2 @@
+Ball that has an initial velocity to the right and an acceleration downwards. The 
+ball bounces off the box and looses velocity in the proses. 

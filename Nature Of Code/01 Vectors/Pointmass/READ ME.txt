@@ -1,0 +1,3 @@
+Program that models a pointmass being attracted by a large body such as the earth.
+User is able to modify the distance between the large body and the pointmass. 
+User is able to modify the radius and surface gravity of the large body. 
