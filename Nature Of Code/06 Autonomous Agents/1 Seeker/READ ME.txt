@@ -1,0 +1,1 @@
+Using Craig Reynolds algorithmic steering behaviours for animating natural movement. I created an object which follows the mouse around the window in a natural looking way. 

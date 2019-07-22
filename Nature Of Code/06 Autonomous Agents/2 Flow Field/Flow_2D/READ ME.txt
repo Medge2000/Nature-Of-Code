@@ -1,0 +1,5 @@
+The user can click or hold on the right mouse button to spawn objects. These objects follow the arrows that are displayed on the window. 
+
+Up - display/remove flow field.
+Down - follow flow field/continue in straight line. 
+Left key - generate new flow field. 

@@ -1,0 +1,7 @@
+Similarly to flow field 2D except now the flow field changes over time. This is done by using perlin noise to smoothly change the direction of each arrow. 
+
+
+Up - display/remove flow field.
+Down - follow flow field/continue in straight line. 
+Left key - generate new flow field. 
+Right key - allow/disallow flow field to change over time.
