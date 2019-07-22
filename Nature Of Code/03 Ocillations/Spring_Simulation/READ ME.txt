@@ -1,0 +1,3 @@
+An object drops in center of window. If user right clicks on window a 'spring' will connect the object with clicked location. 
+
+The spring applies a spring force which affects the objects movement. The colour of the spring is relative to the magnitude of the spring force. The lower the force, the greener, the higher the force, the redder. 

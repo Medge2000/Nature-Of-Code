@@ -1,0 +1,1 @@
+ Three animations that use occillations. A pendulum, sine wave and spiral. 
