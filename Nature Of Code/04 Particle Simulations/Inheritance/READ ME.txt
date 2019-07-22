@@ -1,0 +1,5 @@
+Similarly to the fountain, here we have a particle system that acts like a fountain. However now there are three different particles present in the fountain, each with different displays and spins. The user can place fountains with a right click and apply a wind force with the left and right arrow keys. Each subsequent use of the same arrow key will increase the wind force in the arrow keys direction. 
+
+Through a process called inheritance, the amount of code present can be cut down tremendously. Because the squares, triangles and circles behave very similarly with the only differeces being the display and the spin, we can utilize a parent 'particle' class which contains all the similar code, therefore the similar code only has to be written once, and more importantly, processed once each frame by the computer. This allows for greater efficiency. 
+
+The three shape classes only contain code that is unique to that particular class and 'inherites' the similar code that is contained in the parent particle class. 
