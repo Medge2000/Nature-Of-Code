@@ -1,0 +1,1 @@
+User controls an object which can go to the right or left and can also jump. Gravity is constantly being applied. Any time the object touches the floor it will experience a friction force. 

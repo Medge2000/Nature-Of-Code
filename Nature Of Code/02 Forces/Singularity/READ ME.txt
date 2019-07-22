@@ -1,0 +1,1 @@
+A column of 'photons' travel from the left of the window to the right. If the user right clicks on the window then a 'black hole' will be placed under the cursor.

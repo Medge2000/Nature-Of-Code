@@ -1,0 +1,1 @@
+Similar to 'Asteroid_Belt_1', except in this sketch, if the objects come into contact they are deleted and create a new object with the combined mass. 

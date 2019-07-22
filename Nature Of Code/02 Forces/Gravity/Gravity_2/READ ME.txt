@@ -1,0 +1,10 @@
+In center of window there is an 'Earth' that applies a gravitational force on any object in the system. When the user right clicks on the window an 'asteroid' will spawn under the cursor. The asteroid will have a random mass, direction and velocity. 
+
+The objects will be attracted by the Earths gravity, some asteroids may be lost to space but some will be caught in an eliptical orbit around the earth.
+
+Right click - Spawn asteroid. 
+Right Key - Increase speed.
+Left Key - Decrease Speed.
+Down - Display/Remove speed. 
+Up - Play/pause.
+Backspace - Backgrund Refresh. 

@@ -1,0 +1,1 @@
+Object orbits the center of the screen, color is dependant on the objects coordinates. User can play/pause via right click. User can control speed with left click. 

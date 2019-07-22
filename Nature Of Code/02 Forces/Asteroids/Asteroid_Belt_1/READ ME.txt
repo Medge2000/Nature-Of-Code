@@ -1,0 +1,1 @@
+Objects are spawawned onto the scree and attract each other. This is done with a nested loop. 
