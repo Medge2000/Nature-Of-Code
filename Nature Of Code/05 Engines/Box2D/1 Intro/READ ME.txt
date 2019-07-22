@@ -1,0 +1,6 @@
+Using a physics engine called Box2D I created a prgram which simulates accurate collisions between seperate objects and between the objects and their enviroment. 
+
+There are a number of static platforms and a terrain is generated at the bottom of the window, Perlin noise is used to craft the terrain and is different each time the code is compiled.
+
+The user can place square objects either by clicking or holding down the right mouse button inside the window. 
+

@@ -1,0 +1,3 @@
+Box2D also has a 'revolute joint'. This joint allows connected objects to rotate around a similar point. In the double pendulum simulation, the first arm rotates around the 'stand' and the second arm rotates around the first. 
+
+A second 'canvas' has been implented to allow for a tracer at the center of the mass on the end of the second arm. 

@@ -1,0 +1,1 @@
+By utilizing Box2d's distance joints I joined two or three different morning stars with each other. The user can spawn one of these morning stars with a right click. 

@@ -1,0 +1,3 @@
+By using joints in Box2D I joined four triagles to a circle in order to create a 'morning star'. The user can place a morning star via right click. 
+
+There is a platform at the bottom of the screen that the objects will collide with. They will also collide with each other. 

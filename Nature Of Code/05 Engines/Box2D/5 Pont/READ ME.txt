@@ -1,0 +1,3 @@
+Here I created a bridge with distance joints. A class called segments, which define each segment of the bridge, populates a bridge class using a loop. In that same loop a distance joint is created between each segment and the one created before it. 
+
+The user can place balls onto the bridge either by clicking or holding on the right mouse button. 

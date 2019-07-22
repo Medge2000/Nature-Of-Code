@@ -1,0 +1,1 @@
+This program is an amalgamation of the techniques used in the previous Box2D projects. The only new technique being that the the user can move the morning star around by clicking and holding onto the blue handle with the right mouse button.

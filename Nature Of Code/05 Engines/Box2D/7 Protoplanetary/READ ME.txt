@@ -1,0 +1,1 @@
+Here I decided to bring a previous project and Box2D-ify it. 1000 particle objects with varying masses and no velocity populate the window. Each and every particle attracts every other particle through gravity. As time goes on, the particles will begin to collide and clump together until, through the attractive force of gravity, they all combine into one single mass. 
